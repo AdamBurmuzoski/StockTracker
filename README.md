@@ -40,3 +40,9 @@ A SwiftUI-based iOS app that allows users to search for stock symbols, view stoc
 2. Open the project in **Xcode**.
 3. Run the app on a simulator or a physical device.
 4. Start searching for stock symbols, view stock details, and add stocks to your favorites list.
+
+---
+
+## License
+
+© Adam Burmuzoski. All rights reserved.
