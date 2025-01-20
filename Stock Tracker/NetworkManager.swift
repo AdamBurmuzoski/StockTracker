@@ -21,7 +21,7 @@ struct TimeSeriesData: Codable {
 }
 
 class NetworkManager {
-    let apiKey = "NMF9FQVMB00PZOY4"
+    let apiKey = ""
     let baseURL = "https://www.alphavantage.co/query?"
     
     // Fetch stock details (already defined)
